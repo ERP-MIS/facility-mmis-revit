@@ -97,7 +97,7 @@ const MaintenanceReportingAnalytics = () => {
   };
 
   useEffect(() => {
-    document.title = 'Maintenance Reporting & Analytics - FacilityPro';
+    document.title = 'Reporting & Analytics - FacilityPro';
   }, []);
 
   return (
@@ -109,9 +109,9 @@ const MaintenanceReportingAnalytics = () => {
           <div className="mb-10">
             <div className="flex items-center justify-between mb-6">
               <div className="space-y-3">
-                <h1 className="font-bold text-gradient text-3xl">Maintenance Reporting & Analytics</h1>
+                <h1 className="font-bold text-gradient text-3xl">Reporting & Analytics</h1>
                 <p className="text-muted-foreground text-lg max-w-2xl">
-                  Comprehensive business intelligence platform for maintenance operations performance with real-time insights and predictive analytics
+                  Performance tracking with real-time Business Intelligent insights
                 </p>
               </div>
               <div className="flex items-center space-x-4">

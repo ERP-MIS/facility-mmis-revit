@@ -176,8 +176,8 @@ const InteractiveFacilityFloorPlan = () => {
       <main className="pt-16 min-h-screen">
         {/* Page Title */}
         <div className="p-6 border-b border-border bg-card/50">
-          <h1 className="text-3xl font-bold text-foreground">Interactive Facility Floor Plan</h1>
-          <h2 className="text-foreground text-base font-medium" style={{ fontSize: '16px' }}>Real-time Equipment Monitoring and Space Management</h2>
+          <h1 className="text-3xl font-bold text-foreground">Interactive Floor Plan</h1>
+          <h2 className="text-foreground text-base font-medium" style={{ fontSize: '16px' }}>Real-time Space Management & Monitoring</h2>
         </div>
 
         {/* Simplified Layout - Full Width Floor Plan */}

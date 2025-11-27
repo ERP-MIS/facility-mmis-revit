@@ -355,10 +355,9 @@ const EquipmentAssetManagement = () => {
           {/* Page Header */}
           <div className="flex items-center justify-between mb-6">
             <div>
-              <h1 className="text-3xl font-bold text-foreground">Equipment Asset Management</h1>
+              <h1 className="text-3xl font-bold text-foreground">Asset Management</h1>
               <p className="text-muted-foreground mt-1">
-                Comprehensive asset lifecycle management and maintenance planning
-              </p>
+                Tools & Assets Lifecycle Management Panel              </p>
             </div>
             
             <div className="flex items-center space-x-3">

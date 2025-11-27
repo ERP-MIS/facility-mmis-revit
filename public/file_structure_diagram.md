@@ -1,7 +1,8 @@
 # Complete File Structure - Facility Maintenance Application
 
 ## Public Directory Structure
-```
+
+```text
 public/
 ├── _redirects                  # Netlify/hosting redirect rules
 ├── robots.txt                 # Search engine crawling rules
@@ -15,7 +16,8 @@ public/
 ## Complete Project Structure
 
 ### Root Files
-```
+
+```text
 facility_maintenance_1761839210509/
 ├── package.json               # Project dependencies and scripts
 ├── package-lock.json          # Lock file for exact dependency versions
@@ -29,7 +31,8 @@ facility_maintenance_1761839210509/
 ```
 
 ### Source Code Structure (src/)
-```
+
+```text
 src/
 ├── App.jsx                    # Main application component
 ├── index.jsx                  # React entry point
@@ -155,6 +158,7 @@ src/
 ## Asset Breakdown
 
 ### Public Assets
+
 - **favicon.ico**: Browser tab icon (root and public directories)
 - **no_image.png**: Default placeholder image for missing assets
 - **manifest.json**: Progressive Web App configuration
@@ -162,6 +166,7 @@ src/
 - **_redirects**: Hosting platform redirect rules
 
 ### Configuration Files
+
 - **package.json**: Dependencies, scripts, project metadata
 - **tailwind.config.js**: Tailwind CSS customization
 - **postcss.config.js**: PostCSS processing configuration
@@ -169,12 +174,14 @@ src/
 - **.env**: Environment variables for API keys and configuration
 
 ### Page Structure Summary
+
 - **8 Main Feature Areas** with dedicated pages
 - **42 Component Files** for modular functionality
 - **5 UI Components** for consistent interface
 - **1 Utility Module** for helper functions
 
 ### Architecture Pattern
+
 - **Feature-based organization**: Each major feature has its own directory
 - **Component isolation**: Each page has its own components subfolder
 - **Shared UI library**: Common components in `/components/ui/`

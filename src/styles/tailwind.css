@@ -7,16 +7,16 @@
 @layer base {
   :root {
     /* Core Colors - Optimized Floor Plan Theme */
-    --color-background: #E5E7EB;
-    --color-background-solid: #E5E7EB;
-    --color-foreground: #374151;
-    --color-border: #D1D5DB;
+    --color-background: #ffffff;
+    --color-background-solid: #4ed3ab;
+    --color-foreground: #000000;
+    --color-border: #f86814;
     --color-input: #F9FAFB;
     --color-ring: #FBBF24;
     
     /* Card Colors - Modern White Theme */
-    --color-card: #F9FAFB;
-    --color-card-foreground: #374151;
+    --color-card: #7dfff9;
+    --color-card-foreground: #943e3e;
     
     /* Popover Colors */
     --color-popover: #F9FAFB;
@@ -24,19 +24,19 @@
     
     /* Muted Colors - Refined Neutrals */
     --color-muted: #F3F4F6;
-    --color-muted-foreground: #6B7280;
+    --color-muted-foreground: #25537e;
     
     /* Primary Colors - Dark Gray */
-    --color-primary: #374151;
+    --color-primary: #191f29;
     --color-primary-foreground: #ffffff;
     
     /* Secondary Colors - Soft Yellow */
     --color-secondary: #FBBF24;
-    --color-secondary-foreground: #374151;
+    --color-secondary-foreground: #062a64;
     
     /* Accent Colors - Soft Yellow Highlights */
     --color-accent: #FBBF24;
-    --color-accent-foreground: #374151;
+    --color-accent-foreground: #2649a7;
     
     /* Success Colors - Calming Green */
     --color-success: #22c55e;
@@ -91,7 +91,7 @@
   
   /* Equipment Monitor Optimized Styles */
   .equipment-sidebar {
-    background: #F9FAFB;
+    background: #56ffe3;
     border-right: 1px solid #D1D5DB;
     box-shadow: 2px 0 8px rgba(0, 0, 0, 0.06);
   }
@@ -104,7 +104,7 @@
   }
   
   .equipment-card:hover {
-    border-color: #9CA3AF;
+    border-color: #ff7402;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     transform: translateY(-1px);
   }
@@ -117,19 +117,19 @@
   }
   
   .floor-plan-container {
-    background: #E5E7EB;
+    background: #7a8caf;
     min-height: 100vh;
   }
   
   .floor-plan-viewer {
-    background: #FFFFFF;
+    background: #3eff8f;
     border: 1px solid #D1D5DB;
     border-radius: 12px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
   }
   
   .controls-panel {
-    background: rgba(249, 250, 251, 0.95);
+    background: rgba(206, 236, 97, 0.95);
     backdrop-filter: blur(8px);
     border: 1px solid #D1D5DB;
     border-radius: 8px;
