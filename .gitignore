@@ -1,0 +1,14 @@
+node_modules
+file_structure_diagram.md
+.env
+.vscode/
+.DS_Store
+dist/
+build/
+*.log
+*.tmp
+.idea/
+*.iml
+*.swp
+*.bak
+*.orig
