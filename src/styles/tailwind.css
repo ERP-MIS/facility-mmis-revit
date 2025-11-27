@@ -7,16 +7,16 @@
 @layer base {
   :root {
     /* Core Colors - Optimized Floor Plan Theme */
-    --color-background: #E5E7EB;
-    --color-background-solid: #27447e;
-    --color-foreground: #374151;
+    --color-background: #ffffff;
+    --color-background-solid: #4ed3ab;
+    --color-foreground: #000000;
     --color-border: #f86814;
     --color-input: #F9FAFB;
     --color-ring: #FBBF24;
     
     /* Card Colors - Modern White Theme */
-    --color-card: #3acfc8;
-    --color-card-foreground: #000000;
+    --color-card: #7dfff9;
+    --color-card-foreground: #943e3e;
     
     /* Popover Colors */
     --color-popover: #F9FAFB;
