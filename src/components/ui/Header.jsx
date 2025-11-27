@@ -135,7 +135,7 @@ const Header = () => {
               <Icon name="Building2" size={20} color="white" />
             </div>
             <div className="flex flex-col">
-              <span className="font-semibold text-foreground text-[22px]">MMIS Revenue</span>
+              <span className="font-semibold text-foreground text-[22px]">Market Master</span>
             </div>
           </div>
         </div>

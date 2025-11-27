@@ -114,10 +114,9 @@ const FacilityManagementDashboard = () => {
           {/* Dashboard Header */}
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between space-y-4 lg:space-y-0 mb-8">
             <div className="animate-slide-right">
-              <h1 className="font-bold text-foreground mb-2 text-3xl">Market Master Dashboard</h1>
+              <h1 className="font-bold text-foreground mb-2 text-3xl">Market Management Dashboard</h1>
               <p className="text-responsive-base text-muted-foreground">
-                Comprehensive operational oversight and performance analytics
-              </p>
+                All in One Multi-Storied Facility Management              </p>
             </div>
             
             <div className="flex flex-wrap items-center gap-3">

@@ -213,9 +213,9 @@ const PartsInventoryManagement = () => {
           <div className="mb-6">
             <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
               <div>
-                <h1 className="text-3xl font-bold text-gray-800 tracking-tight">Parts Inventory Management</h1>
+                <h1 className="text-3xl font-bold text-gray-800 tracking-tight">Inventory Management</h1>
                 <p className="text-gray-600 text-sm mt-2 max-w-2xl">
-                  Optimize parts availability and procurement workflows to minimize work order delays
+                  Inventory procurement workflows & Stock Management
                 </p>
               </div>
               <div className="flex items-center gap-3">
